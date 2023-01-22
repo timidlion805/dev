@@ -6,7 +6,7 @@ https://timidlion805.github.io/dev
 
 ### Goal and Value of the Application
 
-The TimidLion storefront is an application that allows users to select shoes based on filters (Brands and Color) and price (high to low, low to high). 
+The TimidLion storefront is an application that allows users to select shoes based on filters (Brands and Color) and sort prices (high to low, low to high). 
 
 ### Usability Principles Considered
 
